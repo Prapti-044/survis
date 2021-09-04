@@ -17,7 +17,7 @@
     },
     "rahat2019agglomerative": {
         "abstract": "Handwritten numerals of different languages have various characteristics. Similarities and dissimilarities of the languages can be measured by analyzing the extracted features of the numerals. Handwritten numeral datasets are available and accessible for many renowned languages of different regions. In this paper, several handwritten numeral datasets of different languages are collected. Then they are used to find the similarity among those written languages through determining and comparing the similitude of each handwritten numerals. This will help to find which languages have the same or adjacent parent language. Firstly, a similarity measure of two numeral images is constructed with a Siamese network. Secondly, the similarity of the numeral datasets is determined with the help of the Siamese network and a new random sample with replacement similarity averaging technique. Finally, an agglomerative clustering is done based on the similarities of each dataset. This clustering technique shows some very interesting properties of the datasets. The property focused in this paper is the regional resemblance of the datasets. By analyzing the clusters, it becomes easy to identify which languages are originated from similar regions.",
-        "author": "Shadmaan Hye",
+        "author": "Shadmaan Hye and Rahat-uz-Zaman",
         "booktitle": "2019 22nd International Conference on Computer and Information Technology (ICCIT)",
         "doi": "10.1109/ICCIT48885.2019.9038550",
         "organization": "IEEE",
@@ -51,7 +51,7 @@
     },
     "rahat2020traffic": {
         "abstract": "History clearly shows from the former times to recent times that the development of a region is heavily contingent on the transport network. Nowadays, however, there are a number of network transport problems, including increased operational costs for vehicles, delay, road congestion, pollution, and road accidents, which are becoming the major issues in a developing country like Bangladesh. Digitized analysis and strategy formulation on constructing, maintaining and upgrading are crucial to get the greatest available solution for these problems. This research contributes towards this analysis by creation, evaluation and compilation maps from obtained information. The present study made an effort to prepare road networks and application of several Geographic Information System (GIS) techniques on the pedestrian, rickshaw, metro and public transit transports systems and receive the optimum transport solution on a variety of cost metrics like traversing distance, velocity and time. Another important discovery made in this research is the relationship between regional road density to cost and travel time. This article demonstrated that in Dhaka city area, based on efficient shortest path algorithm design and a graph generated with 49869 nodes and 53878 edges, the shortest distance between two points may not always be cost-effective and conversely.",
-        "author": "Shadmaan Hye",
+        "author": "Shadmaan Hye and Md. Rahat",
         "editor": "",
         "journal": "Transportation Research Part C: Emerging Technologies",
         "keywords": "complex networks; interaction networks; wireless sensor networks; medical applications",
@@ -73,7 +73,7 @@
     },
     "rahat2020visionit": {
         "abstract": "Vision is one of the basic human senses and is signif- icant for visual sensation over surrounding environment. Many proposals have been put forward to provide good support for visual impairment. In this paper, a proposition has been made to help the blind victims gather knowledge about their nearby areas.  The scenery of the image is captured and then preprocessed.  Image feature extraction is done through object detection and facial recognition. Then a textual description is generated with two different techniques, Recurrent Neural Network(RNN) and template-based, which will illustrate the scenario in-front. On the basis of the interpretative text, an audio is generated through the rearrangement of the previously recorded voice segments. The proposed approach was implemented and tested on 10 pseudo blind people walking in about 15 different surroundings.",
-        "author": "Shadmaan Hye",
+        "author": "Shadmaan Hye and Rahat Zaman",
         "booktitle": "2020 24th International Conference on Computer and Information Technology (ICCIT)",
         "note": "Currently under review",
         "organization": "IEEE",
